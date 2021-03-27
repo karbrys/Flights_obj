@@ -1,0 +1,5 @@
+C Nissan Pojazd Bezpieczne 3 MIA303
+C Pluszowe_misie Zabawki Bezpieczne 2 WAW412
+C Kwas Chemikalia Niebezpieczne 4 MIA303
+C Cement Budowlane Bezpieczne 10 WAW412
+C Komputery Elektronika Bezpieczne 1 MIA303

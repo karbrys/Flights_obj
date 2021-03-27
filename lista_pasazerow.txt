@@ -1,0 +1,13 @@
+
+P Max_Smith 3 LON253
+P Kate_Kowalski 5 DUB345
+P Sofia_Urbanova 16 LON253
+P Mia_Telerico 7 FUE110
+P Sandra_Sanchez 25 FUE110
+P Sumin_Lee 64 DUB345
+P Anja_Nikitrova 12 LON253
+P Yuta_Ito 45 FUE110
+P Mike_Wazowski 9 DUB345
+P Łucja_Zastryżna 10 LON253
+P Jennifer_Penny 11 FUE110
+P Trisha_McKourtney 30 FUE110
