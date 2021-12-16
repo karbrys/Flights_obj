@@ -1,2 +1,2 @@
-# Loty_obj
+# Flights_obj
 Object-oriented interpretation of First Term Project 
